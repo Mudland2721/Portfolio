@@ -1,21 +1,30 @@
 
-body {
+html {
     background-image: url("https://images.unsplash.com/photo-1556767223-80843e91e7d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: auto;
+    margin: auto;
+
   }
  
 #nav {
   font-family: Impact, Charcoal, sans-serif;
   color: whitesmoke;
+  font-size: 50px;
+  text-align: center;
 }
 
 #Me {
     font-family: "Inconsolata";
-    font-size: 300%;
+    font-size: 350%;
     color: #CC0000;
-    position: absolute; 
+    /* position: absolute;  */
     bottom: 0px;
+    text-align: center;
+
 }
 
 #Mason {
@@ -31,4 +40,7 @@ body {
   color: #D2691E;
 }
 
+h2 {
+  color: whitesmoke;
+}
 
