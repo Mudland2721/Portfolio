@@ -27,7 +27,7 @@ html {
   cursor: pointer;
 }
 
-#Me {
+#credentials {
     font-family: "Inconsolata";
     font-size: 350%;
     color: #CC0000;
@@ -49,5 +49,4 @@ html {
 #Web-Developer {
   color: #D2691E;
 }
-
 
